@@ -5,6 +5,6 @@
   "logo": "https://rawgit.com/heroku/node-js-sample/master/public/node.svg",
   "keywords": ["node", "express", "static"],
   "scripts": {
-    "test": "sleep 10"
+    "test": "sleep 12"
   }
 }
