@@ -5,6 +5,6 @@
   "logo": "https://rawgit.com/heroku/node-js-sample/master/public/node.svg",
   "keywords": ["node", "express", "static"],
   "scripts": {
-    "pr-predestroy": "curl -X POST -d \"fizz=buzz\" http://requestbin.net/r/1fid2xo1"
+    "pr-predestroy": "curl -X POST -d \"fizz=boomz\" http://requestbin.net/r/1fid2xo1"
   }
 }
